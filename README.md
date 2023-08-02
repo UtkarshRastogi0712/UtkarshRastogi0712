@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Backend Developer and an ML enthusiast. I'm a sophomore at SRM Institute of Science and Technology pursuing a B.Tech in CSE with specialisation in AI-ML.
+I'm a Backend Developer and an ML enthusiast. I'm a junior at SRM Institute of Science and Technology pursuing a B.Tech in CSE with specialisation in AI-ML.
 
 
 ## 🌐 Socials:
